@@ -2,6 +2,16 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+#practice {
+  color: red;
+  font-family: sans-serif;
+}
+
+code {
+  font-family: monospace;
+  color:  red;
+}
+
 #product-overview {
   background: red
 }

@@ -1,5 +1,9 @@
-body {
+/* body {
   font-family: 'Montserrat', sans-serif;
+} */
+
+body {
+  font-family: arial;
 }
 
 #practice {
@@ -10,6 +14,20 @@ body {
 code {
   font-family: monospace;
   color:  red;
+}
+
+.different-style {
+  color: green;
+}
+
+li + li {
+  background-color: black;
+  color: white;
+}
+
+ol > li {
+  background-color: black;
+  color: white;
 }
 
 #product-overview {

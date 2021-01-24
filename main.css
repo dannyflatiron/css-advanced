@@ -31,7 +31,10 @@ ol > li {
 }
 
 #product-overview {
-  background: red
+  background: red;
+  padding: 20px;
+  border: 5px black solid;
+  margin: 20px;
 }
 
 #product-overview h1 {

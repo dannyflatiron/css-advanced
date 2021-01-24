@@ -4,6 +4,7 @@
 
 body {
   font-family: arial;
+  margin: 0;
 }
 
 #practice {
@@ -32,9 +33,8 @@ ol > li {
 
 #product-overview {
   background: red;
-  padding: 20px;
-  border: 5px black solid;
-  margin: 20px;
+  width: 50%;
+  height: 100%;
 }
 
 #product-overview h1 {
